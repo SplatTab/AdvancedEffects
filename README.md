@@ -1,5 +1,5 @@
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/SplatTab/AdvancedEffects/total">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/SplatTab/AdvancedEffects">
+<img alt="Downloads: " src="https://img.shields.io/github/downloads/SplatTab/AdvancedEffects/total">
+<img alt="Release V1.0.0" src="https://img.shields.io/github/v/release/SplatTab/AdvancedEffects">
 
 # AdvancedEffects
 A plugin that allows you to customize everything about effects
